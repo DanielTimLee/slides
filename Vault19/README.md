@@ -1,7 +1,7 @@
-### bftracer
+### bctracer
 [Source Code](https://github.com/kernel-digging/vault19_bpf_tutorial/tree/master/stage10_ctracer-data%2Bfunc_tracing)
 
-### Demo of bftracer (BPF + ftrace)
+### Demo of bctracer (BPF + ftrace)
 ![bpftrace_demo](./bctracer_data_analysis.gif)
 
 ### How to build bctracer
